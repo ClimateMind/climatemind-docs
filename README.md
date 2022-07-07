@@ -59,3 +59,8 @@ Unfortunately, there are [several reasons](https://climatecommunication.yale.edu
 [talk](act-now/talk/)
 {% endcontent-ref %}
 
+### How can you get involved?
+
+{% content-ref url="act-now/contribute-climate-mind.md" %}
+[contribute-climate-mind.md](act-now/contribute-climate-mind.md)
+{% endcontent-ref %}
