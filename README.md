@@ -2,8 +2,6 @@
 description: >-
   Climate Mind App aims to make it easier for people to have productive
   conversations about climate change.
-cover: .gitbook/assets/Screenshot 2022-07-07 at 23.44.29.png
-coverY: 231.80208333333334
 layout: landing
 ---
 
