@@ -8,10 +8,14 @@
 * [📬 Your address is matter](your-climate-personality/your-address-is-matter.md)
 * [🌪 Climate effects that will affect you the most](your-climate-personality/climate-effects-that-will-affect-you-the-most.md)
 
+***
+
+* [🌆 How to solve the climate crisis](how-to-solve-the-climate-crisis.md)
+
 ## ❗ Act now!
 
-* [⏳ What are mitigation actions?](act-now/what-are-mitigation-actions.md)
-* [🏥 What are adaptation actions?](act-now/what-are-adaptation-actions.md)
+* [⏳ Mitigate](act-now/mitigate.md)
+* [🏥 Adapt](act-now/adapt.md)
 * [🗣 Talk!](act-now/talk/README.md)
   * [☝ Connect the dots](act-now/talk/connect-the-dots.md)
   * [🖼 Set the frame](act-now/talk/set-the-frame.md)

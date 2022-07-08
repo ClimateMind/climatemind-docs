@@ -16,4 +16,4 @@ You can find the list of all climate change effects from our climate knowledge b
 [climate-change-effects.md](../knowledge-base/climate-change-effects.md)
 {% endcontent-ref %}
 
-The app shares the personal risks of climate change along with personally motivating climate actions. There are two types of actions. See the next sections to learn about mitigation and adaptation actions :arrow\_right:
+The app shares the personal risks of climate change along with personally motivating climate actions.&#x20;
