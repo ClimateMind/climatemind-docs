@@ -8,7 +8,7 @@ To check all available mitigation actions go to the "Actions" tab. You can also 
 
 ![](../.gitbook/assets/mitigation.gif)
 
-&#x20;All mitigations actions are listed in our knowledge:
+&#x20;All mitigations actions are listed in our knowledge base:
 
 {% content-ref url="../knowledge-base/mitigation-actions.md" %}
 [mitigation-actions.md](../knowledge-base/mitigation-actions.md)
