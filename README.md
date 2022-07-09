@@ -1,59 +1,55 @@
 ---
-description: >-
-  Climate Mind App aims to make it easier for people to have productive
-  conversations about climate change.
+description: The Climate Mind App powers productive conversations about climate change.
 layout: landing
 ---
 
 # What is Climate Mind?
 
-## **What it's all about?**
+## **Why do we need Climate Mind?**
 
-### **Problem**
+### **The Problem**
 
-Climate change is arguably one of the biggest and most complex challenges humanity currently faces. Although there is some consensus among people about climate change being a threat to our survival and civilization as we know it, the pace at which this is driving societal change or policy implementation is too slow.&#x20;
+Climate change is one of the biggest, most complex challenges we currently face. While there is a  strong scientific consensus that it's a serious threat to our survival and civilization as we know it, the pace at which society is addressing the threat and implementing policy is too slow.&#x20;
 
-### **Challenges**
+### **The Solution**
 
-One way to help resolve this is by empowering people and making it easier for them to talk about climate change with their friends and family.&#x20;
+Talking about climate change meaningfully with friends and family drives better understanding, motivation, and lasting change for faster climate action from the bottom up.
 
 {% hint style="info" %}
-We believe that conversations are [the most important thing](https://www.youtube.com/watch?v=-BvcToPZCLI) to fight climate change
+Conversations are [the most important way](https://www.youtube.com/watch?v=-BvcToPZCLI) we can fight climate change.
 {% endhint %}
 
-Unfortunately, there are [several reasons](https://climatecommunication.yale.edu/news-events/attaining-meaningful-outcomes-from-conversations-on-climate/?mc\_cid=68964df70a\&mc\_eid=b33ed782a5) people don’t talk to others about climate change with their friends and family:
+Why aren't we talking enough? There are [several key factors](https://climatecommunication.yale.edu/news-events/attaining-meaningful-outcomes-from-conversations-on-climate/?mc\_cid=68964df70a\&mc\_eid=b33ed782a5) that Climate Mind addresses, such as:
 
-* :brain:They feel they don’t know enough
-* :family:They don’t want to start an argument or harm their relationship
-* 😔 They don’t want to make someone feel sad &#x20;
+* :brain:We think we don’t know enough
+* :family:We don’t want to start an argument or harm our relationships
+* 😔 We don’t want to make others feel sad &#x20;
 
-## Climate Mind comes up!
+## Climate Mind to the rescue!
 
-### How we can help?&#x20;
+The [Climate Mind](https://climatemind.org/) app addresses these barriers by guiding users to effectively frame their conversations, strengthening relationships while discussing climate change in authentic and positive ways. We don’t have to change people’s values. People already have the values they need to care about a changing climate and be motivated to act, they just haven’t realized it yet. They haven’t connected the dots and found attractive solutions.
 
-[Climate Mind](https://climatemind.org/) will address these barriers by making it easier for people to frame their conversations effectively, by connecting and discussing climate change in an authentic and positive way. We don’t have to change people’s values. People already have the values they need to care about a changing climate and be motivated to act, they just haven’t realised it yet. They haven’t connected the dots and found attractive solutions.
+### What can the Climate Mind App do for you?
 
-### What does the Climate Mind App do?
-
-#### 1. Identify user's personal values
+#### 1. Identify what makes you tick
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-#### **2**. Show how climate change is affecting users personally
+#### **2**. Explore how climate change impacts you personally and relates to your values
 
-{% content-ref url="your-climate-personality/climate-effects-that-will-affect-you-the-most.md" %}
-[climate-effects-that-will-affect-you-the-most.md](your-climate-personality/climate-effects-that-will-affect-you-the-most.md)
+{% content-ref url="your-climate-personality/climate-impacts-that-affect-you-most.md" %}
+[climate-impacts-that-affect-you-most.md](your-climate-personality/climate-impacts-that-affect-you-most.md)
 {% endcontent-ref %}
 
-#### 3. Provide tailored solutions
+#### 3. Discover climate solutions tailored to you
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-#### 4. Show how to have productive climate conversations with others.
+#### 4. Gain support, confidence, and opportunity for better climate convos with friends and family
 
 {% content-ref url="act-now/talk/" %}
 [talk](act-now/talk/)

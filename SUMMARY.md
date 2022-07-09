@@ -5,8 +5,8 @@
 ## 🌱 Find out your climate personality  <a href="#your-climate-personality" id="your-climate-personality"></a>
 
 * [🏆 Your personal values](your-climate-personality/your-personal-values.md)
-* [📬 Your address is matter](your-climate-personality/your-address-is-matter.md)
-* [🌪 Climate effects that will affect you the most](your-climate-personality/climate-effects-that-will-affect-you-the-most.md)
+* [📬 Where you live matters](your-climate-personality/where-you-live-matters.md)
+* [🌪 Climate impacts that affect you most](your-climate-personality/climate-impacts-that-affect-you-most.md)
 
 ***
 

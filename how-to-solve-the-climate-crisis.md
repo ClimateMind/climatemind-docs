@@ -4,7 +4,7 @@ description: '"We have three choices: mitigation, adaptation, and suffering"'
 
 # 🌆 How to solve the climate crisis
 
-{% embed url="https://youtu.be/LYDkYmxQqrM?t=1445" %}
+{% embed url="https://youtu.be/LYDkYmxQqrM?t=1655" %}
 'Mitigate, Adapt or Suffer' Professor Katharine Hayhoe
 {% endembed %}
 
