@@ -7,7 +7,6 @@
 * [🏆 Your personal values](your-climate-personality/your-personal-values.md)
 * [📬 Where you live matters](your-climate-personality/where-you-live-matters.md)
 * [🌪 Climate impacts that affect you most](your-climate-personality/climate-impacts-that-affect-you-most.md)
-* [test page](your-climate-personality/test-page.md)
 
 ***
 
