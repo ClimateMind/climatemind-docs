@@ -9,14 +9,26 @@ layout: landing
 
 ### **The Problem**
 
-Climate change is one of the biggest, most complex challenges we currently face. While there is a  strong scientific consensus that it's a serious threat to our survival and civilization as we know it, the pace at which society is addressing the threat and implementing policy is too slow.&#x20;
+The biggest myth about climate change, isn't whether it's happening. Rather, it's [the myth that it doesn't personally affect us](https://climatecommunication.yale.edu/publications/international-public-opinion-on-climate-change-2022/). Scientists strongly agree: the impacts of climate change are here today, affecting each of us, the scale and speed of change is serious, threatening civilization as we know it, and we are responsible (mainly by burning fossil fuels). Fortunately, many hopeful solutions exist to address climate change while simultaneously making our lives better than they are today. But the pace and scale that we are implementing these solutions needs to be much faster to be appropriate.
+
+{% hint style="success" %}
+**83%** of Americans agree that climate change is happening! :tada:
+{% endhint %}
+
+{% hint style="warning" %}
+**42%** of Americans think it's caused mostly by human activities. :thinking:
+{% endhint %}
+
+{% hint style="danger" %}
+**22%** of Americans think that climate change will harm them personally! :disappointed\_relieved:
+{% endhint %}
 
 ### **The Solution**
 
 Talking about climate change meaningfully with friends and family drives better understanding, motivation, and lasting change for faster climate action from the bottom up.
 
 {% hint style="info" %}
-Conversations are [the most important way](https://www.youtube.com/watch?v=-BvcToPZCLI) we can fight climate change.
+Conversations are :arrow\_forward:[the most important way](https://www.youtube.com/watch?v=-BvcToPZCLI) we can fight climate change.
 {% endhint %}
 
 Why aren't we talking enough? There are [several key factors](https://climatecommunication.yale.edu/news-events/attaining-meaningful-outcomes-from-conversations-on-climate/?mc\_cid=68964df70a\&mc\_eid=b33ed782a5) that Climate Mind addresses, such as:
