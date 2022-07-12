@@ -17,6 +17,7 @@
 * [⏳ Mitigate](act-now/mitigate.md)
 * [🏥 Adapt](act-now/adapt.md)
 * [🗣 Talk!](act-now/talk/README.md)
+  * [↗ Share](act-now/talk/share.md)
   * [☝ Connect the dots](act-now/talk/connect-the-dots.md)
   * [🖼 Set the frame](act-now/talk/set-the-frame.md)
   * [🔮 Myths](act-now/talk/myths.md)
