@@ -20,6 +20,7 @@
   * [↗ Share](act-now/talk/share.md)
   * [☝ Connect the dots](act-now/talk/connect-the-dots.md)
   * [🖼 Set the frame](act-now/talk/set-the-frame.md)
+  * [🙉 Focus on the framing, not just the facts](act-now/talk/focus-on-the-framing-not-just-the-facts.md)
   * [🔮 Myths](act-now/talk/myths.md)
 * [⚒ Contribute Climate Mind](act-now/contribute-climate-mind.md)
 

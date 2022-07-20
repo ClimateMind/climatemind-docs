@@ -10,6 +10,12 @@ You can find more information about how we are building Climate Mind below :arro
 
 ### As a web content writer/curator
 
+Suggest changes to this documentation to keep it up to date
+
+{% content-ref url="https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/5KGShHM04jut0eirqxK1/" %}
+[Documentation](https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/5KGShHM04jut0eirqxK1/)
+{% endcontent-ref %}
+
 &#x20;Provide knowledge about climate change and/or research and writing.
 
 {% content-ref url="https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/ipE8dxjqWq10nZ4kvxGk/" %}
@@ -23,7 +29,7 @@ You can find more information about how we are building Climate Mind below :arro
 Build a Climate Mind Flask-based backend API&#x20;
 
 {% content-ref url="https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Vb0Qqfe4f2Rsrb5b45qY/" %}
-[Backend](https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Vb0Qqfe4f2Rsrb5b45qY/)
+[HTTP API](https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Vb0Qqfe4f2Rsrb5b45qY/)
 {% endcontent-ref %}
 
 Build a package for processing Climate Knowledge Base DiGraph Ontology

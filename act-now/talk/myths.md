@@ -1,7 +1,5 @@
 # 🔮 Myths
 
-{% hint style="warning" %}
-TODO
-{% endhint %}
+Most common myths are listed on the myths page.
 
 ![](../../.gitbook/assets/myths.gif)
