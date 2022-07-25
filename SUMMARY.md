@@ -22,7 +22,7 @@
     * [🖼 Let them set the frame](act-now/talk/share/let-them-set-the-frame.md)
   * [🖇 See how you align](act-now/talk/see-how-you-align.md)
   * [🔦 See selected topics](act-now/talk/see-selected-topics.md)
-  * [🙉 Focus on the framing, not just the facts](act-now/talk/focus-on-the-framing-not-just-the-facts.md)
+  * [🖼 Focus on the framing, not just the facts](act-now/talk/focus-on-the-framing-not-just-the-facts.md)
   * [🔮 Myths](act-now/talk/myths.md)
 * [⚒ Contribute Climate Mind](act-now/contribute-climate-mind.md)
 
