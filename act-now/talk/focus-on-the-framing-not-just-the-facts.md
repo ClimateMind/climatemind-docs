@@ -1,4 +1,4 @@
-# 🙉 Focus on the framing, not just the facts
+# 🖼 Focus on the framing, not just the facts
 
 Humans are currently in a war against global warming. Or is it a race against global warming? Or maybe it’s just a problem we have to deal with?
 
@@ -56,4 +56,8 @@ There’s no one-size-fits-all frame for motivating people to care about climate
 
 {% hint style="info" %}
 Source: [Communicating climate change: Focus on the framing, not just the facts](https://theconversation.com/communicating-climate-change-focus-on-the-framing-not-just-the-facts-73028)
+{% endhint %}
+
+{% hint style="success" %}
+See also: [Facts Don’t Change Our Minds ](https://medium.com/climate-conscious/facts-dont-change-our-minds-we-need-a-new-approach-to-communicating-about-climate-change-348325cb026a)
 {% endhint %}
