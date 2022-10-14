@@ -69,6 +69,6 @@ The [Climate Mind](https://climatemind.org/) app addresses these barriers by gui
 
 ### How can you get involved?
 
-{% content-ref url="https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Oaex4Nslfr1DFIAdTNKd/" %}
-[How to contribute](https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Oaex4Nslfr1DFIAdTNKd/)
+{% content-ref url="act-now/contribute-climate-mind.md" %}
+[contribute-climate-mind.md](act-now/contribute-climate-mind.md)
 {% endcontent-ref %}

@@ -24,7 +24,7 @@
   * [🔦 See selected topics](act-now/talk/see-selected-topics.md)
   * [🖼 Focus on the framing, not just the facts](act-now/talk/focus-on-the-framing-not-just-the-facts.md)
   * [🔮 Myths](act-now/talk/myths.md)
-* [Contribute Climate Mind](https://contribute.climatemind.org/)
+* [⚒ Contribute Climate Mind](https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Oaex4Nslfr1DFIAdTNKd/)
 
 ***
 
