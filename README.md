@@ -55,20 +55,20 @@ The [Climate Mind](https://climatemind.org/) app addresses these barriers by gui
 [climate-impacts-that-affect-you-most.md](your-climate-personality/climate-impacts-that-affect-you-most.md)
 {% endcontent-ref %}
 
-#### 3. Discover climate solutions tailored to you
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-#### 4. Gain support, confidence, and opportunity for better climate convos with friends and family
+#### 3. Gain support, confidence, and opportunity for better climate convos with friends and family
 
 {% content-ref url="act-now/talk/" %}
 [talk](act-now/talk/)
 {% endcontent-ref %}
 
+#### 4. Discover climate solutions tailored to you
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ### How can you get involved?
 
-{% content-ref url="act-now/contribute-climate-mind.md" %}
-[contribute-climate-mind.md](act-now/contribute-climate-mind.md)
+{% content-ref url="https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Oaex4Nslfr1DFIAdTNKd/" %}
+[How to contribute](https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Oaex4Nslfr1DFIAdTNKd/)
 {% endcontent-ref %}
