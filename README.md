@@ -5,6 +5,8 @@ layout: landing
 
 # What is Climate Mind?
 
+{% embed url="https://www.youtube.com/watch?v=ZO0QatCwR_U" %}
+
 ## **Why do we need Climate Mind?**
 
 ### **The Problem**
@@ -70,5 +72,5 @@ The [Climate Mind](https://climatemind.org/) app addresses these barriers by gui
 ### How can you get involved?
 
 {% content-ref url="https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Oaex4Nslfr1DFIAdTNKd/" %}
-[How to contribute](https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Oaex4Nslfr1DFIAdTNKd/)
+[All ways to contribute](https://app.gitbook.com/o/5XFn5ZR3pCC6X1TsNYnf/s/Oaex4Nslfr1DFIAdTNKd/)
 {% endcontent-ref %}
